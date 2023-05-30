@@ -13,7 +13,6 @@ public class InsertionSort {
                 arr[j] = tmp;
                 j = j - 1;
             }
-            print(arr);
         }
         return arr;
     }
